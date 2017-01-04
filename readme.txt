@@ -6,4 +6,4 @@ hello.
 Creating a new branch is quick and simple.
 add dev info.
 add modified.
-add mulll info.
+add mulity info.
